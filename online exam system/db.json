@@ -1233,15 +1233,15 @@
   ],
   "user": [
     {
-      "uname": "KEMISETTY GNANA SAI PRAVEEN",
-      "email": "praveenkemisetty@gmail.com",
-      "number": "8688575787",
-      "student_id": "19BQ1A0591",
+      "uname": "EEDA MOHITH REDDY",
+      "email": "mohithreddy@gmail.com",
+      "number": "9966400289",
+      "student_id": "20BQ5A0507",
       "gender": "Male",
       "course": "B.Tech",
       "branch": "Computer Science Engineering",
       "institution": "Vasireddy Venkatadri Institute of Technology",
-      "npass": "Praveen",
+      "npass": "Mohith",
       "role": "student",
       "id": 1
     },
@@ -1348,6 +1348,19 @@
       "npass": "Niha@821",
       "role": "student",
       "id": 9
-    }
+    },
+    {
+      "uname": "KEMISETTY GNANA SAI PRAVEEN",
+      "email": "praveenkemisetty@gmail.com",
+      "number": "8688575787",
+      "student_id": "19BQ1A0591",
+      "gender": "Male",
+      "course": "B.Tech",
+      "branch": "Computer Science Engineering",
+      "institution": "Vasireddy Venkatadri Institute of Technology",
+      "npass": "Praveen",
+      "role": "student",
+      "id": 10
+    },
   ]
 }
